@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Emmanuel 👋
 
-<!--
-**Detola12/Detola12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer  
+📍 Based in Canada  
+🚀 I build full-stack web applications and APIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Backend**
+- Laravel (PHP)
+- Python
+- C#
+
+**Frontend**
+- Vue.js
+- React
+
+**Other Tools**
+- REST APIs
+- MySQL
+- Git & GitHub
+- Swagger (API Documentation)
+
+---
+
+## 🚀 What I’m Working On
+
+- Building scalable APIs
+- Improving full-stack architecture skills
+- Exploring AI & chatbot development
+
+---
+
+## 📌 Featured Projects
+
+🔹 Quiz Application  
+🔹 Banking API
+🔹 Web3 Crowdfunding Platform  
+
+(Links coming soon)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Detola12
+- LinkedIn: (Add your LinkedIn here)
+
+---
+
+⭐ Always learning. Always building.
